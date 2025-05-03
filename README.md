@@ -90,16 +90,16 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
 ## 🌟 앱 화면
 <table>
   <tr>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/github.gif" alt="github" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/company.gif" alt="company" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/analysis.gif" alt="analysis" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/coverletter.gif" alt="coverletter" style="width:100%; height:auto;" /></td>
   </tr>
   <tr>
+    <td><img src="./img/fortune.gif" alt="fortune" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/quiz.gif" alt="quiz" style="width:100%; height:auto;" /></td>
     <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
+    <td><img src="./img/mypage.gif" alt="mypage" style="width:100%; height:auto;" /></td>
   </tr>
 </table>
 
