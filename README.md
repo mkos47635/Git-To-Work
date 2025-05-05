@@ -92,58 +92,33 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
 <table>
   <tr>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/e6e5a48a-b32c-4f09-95ad-639bb7bb80b7"
-        style="width:100%; height:auto;"
-      ></video>
+<video src="https://github.com/user-attachments/assets/c088ca81-120b-45e5-a8e1-e7f7e392d728" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/da5ffbf1-2f50-440b-b346-88cec3a6dc93"
-        style="width:100%; height:auto;"
-      ></video>
+<video src="https://github.com/user-attachments/assets/94846008-00ce-401f-9066-6d3f7a6ce5f4" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/02a4d6b8-8977-4b9b-b71f-2bf4e4d87350"
-        style="width:100%; height:auto;"
-      ></video>
+<video src="https://github.com/user-attachments/assets/04d6199c-edc7-45e3-a3f3-ff8c3a6a2542" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/839e3a57-ccad-428c-8c29-4d278b28b46e"
-        style="width:100%; height:auto;"
-      ></video>
+<video src="https://github.com/user-attachments/assets/ec0f4947-8f05-42cc-bc62-df746e3ade53" style="width:100%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/3031d6df-a22b-4193-968d-4a652ddd0f27"
-        style="width:100%; height:auto;"
-      ></video>
+        <video src="https://github.com/user-attachments/assets/dd95022d-3eb5-4718-8a85-bf325c0784be" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/3a69093d-6eed-4842-a53f-ab3f87f4b5b1"
-        style="width:100%; height:auto;"
-      ></video>
+    <video src="https://github.com/user-attachments/assets/7205189c-c36a-4285-9a40-5a13f8c48523" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/288554ec-4ebd-402c-b717-4d8fc4986f3c"
-        style="width:100%; height:auto;"
-      ></video>
+    <video src="https://github.com/user-attachments/assets/4d27f0d4-2cc6-453c-b205-36943c6814e3" style="width:100%; height:auto;">
     </td>
     <td>
-      <video
-        src="https://github.com/user-attachments/assets/73bb8300-fecb-43d7-ae22-340f537d364a"
-        style="width:100%; height:auto;"
-      ></video>
+    <video src="https://github.com/user-attachments/assets/69e6ef77-7446-492d-a026-3ebbe7fa89a7" style="width:100%; height:auto;">
     </td>
   </tr>
 </table>
-
 
 
 ## 🌈 주요 기능
