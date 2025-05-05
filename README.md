@@ -88,20 +88,94 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
 <br><br>
 
 ## 🌟 앱 화면
+
 <table>
   <tr>
-    <td><img src="./img/github.gif" alt="github" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/company.gif" alt="company" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/analysis.gif" alt="analysis" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/coverletter.gif" alt="coverletter" style="width:100%; height:auto;" /></td>
+    <td>
+      <video
+        src="./img/github.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/company.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/analysis.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/coverletter.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
   </tr>
   <tr>
-    <td><img src="./img/fortune.gif" alt="fortune" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/quiz.gif" alt="quiz" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/join.gif" alt="join" style="width:100%; height:auto;" /></td>
-    <td><img src="./img/mypage.gif" alt="mypage" style="width:100%; height:auto;" /></td>
+    <td>
+      <video
+        src="./img/fortune.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/quiz.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/join.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
+    <td>
+      <video
+        src="./img/mypage.webm"
+        loop
+        muted
+        autoplay
+        playsinline
+        style="width:100%; height:auto;"
+      ></video>
+    </td>
   </tr>
 </table>
+
 
 
 ## 🌈 주요 기능
