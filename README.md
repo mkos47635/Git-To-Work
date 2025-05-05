@@ -93,7 +93,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
   <tr>
     <td>
       <video
-        src="./img/github.webm"
+        src="https://github.com/user-attachments/assets/e6e5a48a-b32c-4f09-95ad-639bb7bb80b7"
         loop
         muted
         autoplay
@@ -103,7 +103,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/company.webm"
+        src="https://github.com/user-attachments/assets/da5ffbf1-2f50-440b-b346-88cec3a6dc93"
         loop
         muted
         autoplay
@@ -113,7 +113,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/analysis.webm"
+        src="https://github.com/user-attachments/assets/02a4d6b8-8977-4b9b-b71f-2bf4e4d87350"
         loop
         muted
         autoplay
@@ -123,7 +123,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/coverletter.webm"
+        src="https://github.com/user-attachments/assets/839e3a57-ccad-428c-8c29-4d278b28b46e"
         loop
         muted
         autoplay
@@ -135,7 +135,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
   <tr>
     <td>
       <video
-        src="./img/fortune.webm"
+        src="https://github.com/user-attachments/assets/3031d6df-a22b-4193-968d-4a652ddd0f27"
         loop
         muted
         autoplay
@@ -145,7 +145,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/quiz.webm"
+        src="https://github.com/user-attachments/assets/3a69093d-6eed-4842-a53f-ab3f87f4b5b1"
         loop
         muted
         autoplay
@@ -155,7 +155,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/join.webm"
+        src="https://github.com/user-attachments/assets/288554ec-4ebd-402c-b717-4d8fc4986f3c"
         loop
         muted
         autoplay
@@ -165,8 +165,7 @@ Git To Work는 개발자의 GitHub 활동 데이터와 최신 채용 정보를 �
     </td>
     <td>
       <video
-        src="./img/mypage.webm"
-        loop
+        src="https://github.com/user-attachments/assets/73bb8300-fecb-43d7-ae22-340f537d364a"
         muted
         autoplay
         playsinline
